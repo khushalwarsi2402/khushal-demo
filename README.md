@@ -1,4 +1,4 @@
 # khushal-demo
-Thus my first Git Repository
+Thus my first Git Repository.
 <br>
-Author - khishal warsi
+Author - khushal warsi
